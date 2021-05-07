@@ -7,5 +7,5 @@ Data on grouper abundance come from the Reef Environmental and Education Foundat
 # Model
 We built a Bayesian hierarchical state-space model, that estimates the underlying population trajectory over time based on the frequency of encounters and their relative abundance score. This model accounts for site-level differences in abundance (eg. sites that consistently host groupers and those that infrequently do), diver-level ability and effort, spatiotemporal clustering (eg. repeated surveys at the same sites on the same days), and detection covariates (eg. visibility, depth, etc.). The model produces estimates of annual estimated counts per survey and the underlying population index through time.
 
-#Figures
+# Figures
 See the figures folder for the model ouputs indicating the population index of Goliath Grouper from 1994 to 2020 for all of Florida, the Florida Keys and Dry Tortugas, and the east coast of Florida. We did not separately model the Gulf of Mexico sites due to low sample sizes.
