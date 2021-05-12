@@ -1,5 +1,5 @@
 # Figure 1
-![](<images/Goliath Grouper_Florida (All Regions)_state_space.pdf>)
+
 Population trajectory for Goliath Grouper (Epinephelus itajara) in Florida based on 17,983 roving diver surveys collected as part of the REEF Volunteer Fish Survey Project conducted across 130 sites where groupers have consistently been sighted from 1994 to 2020. The y-axis indicates the mean number of groupers encountered on an average dive at these sites, with shaded areas representing the 90% credibility intervals (the expected true value should lie within this shaded area 90% of the time) for the underlying estimated population state (dashed line). Small numbers above the x-axis represent the number of surveys at all sites each year. Following a recovery from the 1990s until 2010, the average counts of Goliath Groupers at these sites has declined by -53.2% (90% CI = -69.9%, -25.3%).
 
 # Figure 2
